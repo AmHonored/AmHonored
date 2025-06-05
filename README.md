@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥤Founder of MagValues / Python Developer<br>🥤Looking for experienced Frontend Developers<br>🥤Learning HTML , CSS <br>🥤For Business inquiry and collaborations contact my social media<br>✨You can't be half pregnant.
+🥤Founder of MagValues <br> Java & Python Developer<br>🥤Looking for experienced Frontend Developers<br>🥤Learning HTML , CSS <br>🥤For Business inquiry and collaborations contact my social media<br>✨You can't be half pregnant.
 
 
 ## 🌐 Socials:
